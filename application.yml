@@ -1,5 +1,5 @@
 my:
-  text: "hello; **** This is USER Staging Environment *****"
+  text: "hello; **** This is ALL MS Staging Environment *****"
 
 spring:
   datasource:
